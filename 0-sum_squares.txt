@@ -1,0 +1,4 @@
+// LET numbers = N
+// LET N^2 = squares
+// LET N^2 + N^2 = sum
+// PRINT sum
