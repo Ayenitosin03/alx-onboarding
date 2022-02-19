@@ -1,21 +1,6 @@
-// LET N =x,y,z
-// IF x <= y & y <= z
-// PRINT x,y,z
-// ELSE
-// IF x <= z & z <= y
-// PRINT x,z,y
-// ELSE
-// IF y <= x & x <= z
-// PRINT x,z,y
-// ELSE
-// IF x <= y & y <= z
-// PRINT y,x,z
-// ELSE
-// IF y <= z & z <= x
-// PRINT y,z,x
-// ELSE
-// IF z <= x & x <= y
-// PRINT z,x,y
-// ELSE
-// IF x = y & y = z
-// PRINT x,z,y
+PSEUDOCODE
+PRINT– a request for the user to input the three numbers to the system
+#create a variable to take the number of elements that will be put by the user
+number_of_elements= 3
+#create  a variable to store the inputs
+VARIABLE = []

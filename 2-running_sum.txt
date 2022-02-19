@@ -1,0 +1,12 @@
+PSEUDOCODE
+Create a function that will ask the user to enter a number they want to sum
+#create a variable to hold the inputs
+Total = 0
+FUNCTION Sum
+PRINT- enter a number you want to sum
+User_input = input()
+ 	IF the user_input >= 0
+		Total = Total + user_input
+		Then call the  function again here(recursively)
+	ELSE:
+		PRINT(Total)

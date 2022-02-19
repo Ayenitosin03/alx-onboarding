@@ -1,4 +1,15 @@
-// LET numbers = N
-// LET N^2 = squares
-// LET N^2 + N^2 = sum
-// PRINT sum
+PSEUDOCODE
+PRINT– input the numbers separated by a white space
+Create a VARIABLE preferably a list that holds the inputs from the user
+#use a for loop to go through the elements in the list
+FOR the Element in the VARIABLE:
+	Element * Element
+	Append the squared elements to another NEWVARIABLE that will hold the squared elements
+# use a while loop to sum the squared elements
+Total = 0
+WHILE elements < length of NEWVARIABLES
+	Total = total + NEWVARIABLES[elements]
+	Elements += 1
+
+PRINT the total variable
+
